@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background: #101010;
+  color: #fff;
+}
+
+.send-button {
+  background-color: #f72585;
+}
+
+.send-button:hover {
+  background-color: #c200fb;
+}
